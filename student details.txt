@@ -1,0 +1,6 @@
+student details
+name:J.surya sravanthi
+class: degree 3rd year 
+branch: bsc
+department: air
+college name: Aditya degree college for women
